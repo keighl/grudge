@@ -78,14 +78,6 @@ The defaults:
   z-index: 2040;
 }
 
-.grudge-label {
-  display: block;
-  float: left;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
 .grudge-close {
   position: absolute;
   top: -13px;
